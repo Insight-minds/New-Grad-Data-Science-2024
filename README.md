@@ -9,17 +9,24 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 - **Please note that this repository only lists job openings in the `United States`** 🌎
 
+## Nomenclature
+- ✅ - Currently Open Jobs
+- 🔒 - Closed Jobs
+- ⚠️ - Site down/ Not able to apply by last person. 
+
 ## Jobs
 
 ----
 
 | Company Name         | Roles                | Contributor |
-| ------------ | -------------------- | --------------------------- |
+| ------------- | --------------------- | ---------------------------- |
+| UTHealth Houston | ✅ [Graduate Data Scientist - School of Biomedical Informatics](https://www.simplyhired.com/job/FOwOsWlqdTlESUscsAc-G7plvbAvYb8kmDN9_K2btAcTsEAhJBwF1Q)   | Nelson |
+| Lockton, Inc | ✅ [Data Scientist](https://www.simplyhired.com/job/dNZIU2ajsR26oXw76WNUjWrj6PTZnyIB_G4Ak_gHv6rcBy9ZItDeRA)   | Nelson |
 | Hewlett Packard | ✅ [Data Scientist](https://www.simplyhired.com/job/BHKB6mmOOGpR8fRtIg1rnzjBfsXcxvNocyK98IS1lP8aledCcMHOZw)   | Nelson |
 | Gartner | ✅ [Associate Data Scientist/Data Scientist (Master’s Degree – Dec 23 – May 24)](https://www.simplyhired.com/job/Cd-W0DeWFpk3GzHMxWhozCfBzR7DHofKhf3JRTOEbXJ3ASYY7Km1vw)   | Nelson |
 | Jackson Lewis | ✅ [Data Scientist](https://www.simplyhired.com/search?q=new+grad+-+data+scientist&l=texas&job=pTTmTFPdlkUAgkHJCaXlbKiMcLXIfvPt5wAaFhXyxwF_HgrtpW_FYg)   | Nelson |
 | Southern Methodist University | ✅ [Data Scientist](https://www.simplyhired.com/search?q=new+grad+-+data+scientist&l=texas&job=SoG-wDL951CLlhVp3d9oAU7b-GUwRjjmhtn5sD3QKNxhJQ2Q3MmQIQ)   | Nelson |
-| Industrial Info Resources | ✅ [Junior Data Scientist](https://www.simplyhired.com/search?q=new+grad+-+data+scientist&l=texas&job=i3dDQa0KiuhcANA08MKb05yTUkyr-dp-iQoyXbKbdJfQBTWg1A1JnA)   | Nelson |
+| Industrial Info Resources | ⚠️ [Junior Data Scientist](https://www.simplyhired.com/search?q=new+grad+-+data+scientist&l=texas&job=i3dDQa0KiuhcANA08MKb05yTUkyr-dp-iQoyXbKbdJfQBTWg1A1JnA)   | Nelson |
 | Embold Health | ✅ [Data Scientist](https://www.simplyhired.com/search?q=new+grad+-+data+scientist&job=EEF0MlK2NLssJ3jZ5AGXD6o01PDQZJ5X0mpRNIw6RAxZgFTtHlLzHw&from=smart-apply)   | Nelson |
 | Ameriprise Financial | ✅ [Associate Data Scientist](https://www.simplyhired.com/job/lVjUaumOzaKb9RLVpjIK_ItEJScOr5FprNghA7RoNW9HKbWWptvPUQ)   | Sakshi |
 | Penske Truck Leasing and Logistics | ✅ [Data Scientist](https://www.simplyhired.com/job/EAMccIqDpZkwC8BdmETHFFXlklwrvv7sCQLVPQxXrFtj1m9C23A_aw)   | Nelson |
