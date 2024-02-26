@@ -5,7 +5,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 - **We welcome contributions from the community!** Please submit a pull request, and we will update them.
 
-- Browse our regularly updated list of job openings, as it's maintained by the community. 🚀
+- Browse regularly for updated list of job openings, as it's maintained by the community. 🚀
 
 - **Please note that this repository only lists job openings in the `United States`** 🌎
 
@@ -15,6 +15,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------ | -------------------- | --------------------------- |
+| Embold Health | ✅ [Data Scientist](https://www.simplyhired.com/search?q=new+grad+-+data+scientist&job=EEF0MlK2NLssJ3jZ5AGXD6o01PDQZJ5X0mpRNIw6RAxZgFTtHlLzHw&from=smart-apply)   | Nelson |
 | Ameriprise Financial | ✅ [Associate Data Scientist](https://www.simplyhired.com/job/lVjUaumOzaKb9RLVpjIK_ItEJScOr5FprNghA7RoNW9HKbWWptvPUQ)   | Sakshi |
 | Penske Truck Leasing and Logistics | ✅ [Data Scientist](https://www.simplyhired.com/job/EAMccIqDpZkwC8BdmETHFFXlklwrvv7sCQLVPQxXrFtj1m9C23A_aw)   | Nelson |
 | Databricks | 🔒 [Data Scientist - New Grad (2024 Start)](https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2024-start-6866554002)   | Nelson |
