@@ -15,6 +15,9 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------ | -------------------- | --------------------------- |
+| Jackson Lewis | ✅ [Data Scientist](https://www.simplyhired.com/search?q=new+grad+-+data+scientist&l=texas&job=pTTmTFPdlkUAgkHJCaXlbKiMcLXIfvPt5wAaFhXyxwF_HgrtpW_FYg)   | Nelson |
+| Southern Methodist University | ✅ [Data Scientist](https://www.simplyhired.com/search?q=new+grad+-+data+scientist&l=texas&job=SoG-wDL951CLlhVp3d9oAU7b-GUwRjjmhtn5sD3QKNxhJQ2Q3MmQIQ)   | Nelson |
+| Industrial Info Resources | ✅ [Junior Data Scientist](https://www.simplyhired.com/search?q=new+grad+-+data+scientist&l=texas&job=i3dDQa0KiuhcANA08MKb05yTUkyr-dp-iQoyXbKbdJfQBTWg1A1JnA)   | Nelson |
 | Embold Health | ✅ [Data Scientist](https://www.simplyhired.com/search?q=new+grad+-+data+scientist&job=EEF0MlK2NLssJ3jZ5AGXD6o01PDQZJ5X0mpRNIw6RAxZgFTtHlLzHw&from=smart-apply)   | Nelson |
 | Ameriprise Financial | ✅ [Associate Data Scientist](https://www.simplyhired.com/job/lVjUaumOzaKb9RLVpjIK_ItEJScOr5FprNghA7RoNW9HKbWWptvPUQ)   | Sakshi |
 | Penske Truck Leasing and Logistics | ✅ [Data Scientist](https://www.simplyhired.com/job/EAMccIqDpZkwC8BdmETHFFXlklwrvv7sCQLVPQxXrFtj1m9C23A_aw)   | Nelson |
