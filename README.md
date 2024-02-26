@@ -15,6 +15,8 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------ | -------------------- | --------------------------- |
+| Hewlett Packard | ✅ [Data Scientist](https://www.simplyhired.com/job/BHKB6mmOOGpR8fRtIg1rnzjBfsXcxvNocyK98IS1lP8aledCcMHOZw)   | Nelson |
+| Gartner | ✅ [Associate Data Scientist/Data Scientist (Master’s Degree – Dec 23 – May 24)](https://www.simplyhired.com/job/Cd-W0DeWFpk3GzHMxWhozCfBzR7DHofKhf3JRTOEbXJ3ASYY7Km1vw)   | Nelson |
 | Jackson Lewis | ✅ [Data Scientist](https://www.simplyhired.com/search?q=new+grad+-+data+scientist&l=texas&job=pTTmTFPdlkUAgkHJCaXlbKiMcLXIfvPt5wAaFhXyxwF_HgrtpW_FYg)   | Nelson |
 | Southern Methodist University | ✅ [Data Scientist](https://www.simplyhired.com/search?q=new+grad+-+data+scientist&l=texas&job=SoG-wDL951CLlhVp3d9oAU7b-GUwRjjmhtn5sD3QKNxhJQ2Q3MmQIQ)   | Nelson |
 | Industrial Info Resources | ✅ [Junior Data Scientist](https://www.simplyhired.com/search?q=new+grad+-+data+scientist&l=texas&job=i3dDQa0KiuhcANA08MKb05yTUkyr-dp-iQoyXbKbdJfQBTWg1A1JnA)   | Nelson |
