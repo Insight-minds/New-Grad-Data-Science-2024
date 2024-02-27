@@ -20,6 +20,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Newsbreak | ✅ [Machine Learning Engineer (Junior & New Grad)](https://boards.greenhouse.io/newsbreak/jobs/4338876006?utm_source=Simplify&gh_src=Simplify)   | Nikhil |
 | Lowe's | ✅ [Data Scientist - Store Inventory](https://talent.lowes.com/us/en/job/JR-01664516/Data-Scientist-Store-Inventory?utm_source=617IndeedOrganic)   | Sakshi |
 | Notion  | ✅ [Data Scientist, Product](https://boards.greenhouse.io/notion/jobs/5895534003)   | Nikhil |
 | UTHealth Houston | ✅ [Graduate Data Scientist - School of Biomedical Informatics](https://www.simplyhired.com/job/FOwOsWlqdTlESUscsAc-G7plvbAvYb8kmDN9_K2btAcTsEAhJBwF1Q)   | Nelson |
