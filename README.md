@@ -27,6 +27,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Nicoll Curtin | ✅ [Data Scientist](https://www.linkedin.com/jobs/view/3833697042/?refId=93210212-02aa-4b23-8644-7ca492340b8e&trackingId=lRNKI3LRQwCACrcQ%2B9E9hQ%3D%3D)   | Nelson |
 | SAIVA AI | ✅ [Data Scientist](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3835346040&refId=Vrn%2BVelGTy8ZyphflfKtiw%3D%3D&trackingId=Vrn%2BVelGTy8ZyphflfKtiw%3D%3D)   | Nelson |
 | ChabezTech LLC | ✅ [Data Scientist (Clinical / Health Care exp.)](https://www.linkedin.com/jobs/search/?alertAction=viewjobs&currentJobId=3837362698&f_TPR=r604800&f_WT=2&geoId=103644278&origin=JOBS_HOME_REMOTE_JOBS&savedSearchId=1732141389)   | Nelson |
 | EDO, Inc | ✅ [Data Scientist](https://boards.greenhouse.io/edo/jobs/4248948007?source=LinkedIn)   | Nelson |
