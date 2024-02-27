@@ -12,7 +12,14 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 ## Nomenclature
 - ✅ - Currently Open Jobs
 - 🔒 - Closed Jobs
-- ⚠️ - Site down/ Not able to apply by last person. 
+- ⚠️ - Site down/ Not able to apply by last person.
+
+## Instructions for Contributions
+1) Fork this repository and always remember to sync your fork before making a pull request.
+2) Find job roles that are fresher-friendly with less than or equal to 2 years of experience.
+3) Do not contribute jobs that require citizenship, clearance, or do not sponsor, which are clearly mentioned.
+4) Search for the keywords (citizen, clearance, sponsor, experience) to easily identify whether they meet the criteria.
+5) Make a pull request. We will review it and add it to the repository.
 
 ## Jobs
 
@@ -20,6 +27,15 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| SAIVA AI | ✅ [Data Scientist](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3835346040&refId=Vrn%2BVelGTy8ZyphflfKtiw%3D%3D&trackingId=Vrn%2BVelGTy8ZyphflfKtiw%3D%3D)   | Nelson |
+| ChabezTech LLC | ✅ [Data Scientist (Clinical / Health Care exp.)](https://www.linkedin.com/jobs/search/?alertAction=viewjobs&currentJobId=3837362698&f_TPR=r604800&f_WT=2&geoId=103644278&origin=JOBS_HOME_REMOTE_JOBS&savedSearchId=1732141389)   | Nelson |
+| EDO, Inc | ✅ [Data Scientist](https://boards.greenhouse.io/edo/jobs/4248948007?source=LinkedIn)   | Nelson |
+| Net2Source Inc | ✅ [Data Scientist](https://www.linkedin.com/jobs/view/3834570681/?eBP=CwEAAAGN63KWs218Oq1FC2xk1aAQT0_sNE4_QcggPSHcJFXxDy28ESopciACSgmnGJJQOx1oRKFMzhOHEE-0so17_ha1S9ozwkxljN_PZ7qlemLWIim-VOYXHHrfMao4bLPoSDASB3v8WJeXYz2dLRMEG48n1BKzs5iY_D51KemoQypX3hNmS7FgF01KXi4rMIdOylY-0M0WHVmqL2enRMVtRClracER2fepZ9G8c0sgtbLG9-5Vl-pxTrjk4Em7jkGDXIRZrjf1vW3Z2n7mABAVld5Sqqp0OT2u82PMz9BPyvizmZFF4QF9S922QXRPyiq6yekjNIWKOA_yN5SVnnZbpwnd_B39vCn0RL0VWiicwcEF_Ch36nuBlFnCsMU7pqMbhjjDlvgSaMp_CcdvAdYpe9fi&refId=jJPk8xfBDD4%2BDGC933geGg%3D%3D&trackingId=NC4%2F8CBN9t1vFLrETM1sTA%3D%3D)   | Nelson |
+| Boo | ✅ [Data Scientist](https://boo01.snaphunt.com/job/Z2YB3ML0GB-SM-169?source=linkedin)   | Nelson |
+| Brooksource | ✅ [Junior Machine Learning Engineer](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3835319159&eBP=CwEAAAGN623M1NtsfJHjXNho5KiEku3WmXELNo3pMegTPp7tpQVOaRNY1Qzma8zkULMgYHhYKDOSUkpbDXcSiJ9TVdiKeqR8MmKkHnhAuWbaam1c3DOpW1fd3l18TTXah7mYG0mIU9R-kjelv_ZEFj5E4eVppLsHhYNB_gaXFJyvxarQHdLyeRfFQebgnGRWWkHuX7VNAjMm9SGz9E45C3deYDEKrvsR7uAgm2l5gNTs1p78xrZ6niKJOO5jAGihMTGAW9bDPVZGHgj0wTWOcCcq3msll4coGx1owYvG9KGhhOtUMM8wBt4AQc2ovHSdNItgWUMYlME7Ik14IMRBIAjZYliaZvWFbln7RSzb05sTP5uBXj5NLwygiwpcYIFw&refId=Qr0Lv7cYE1I0jfbwU4p6cA%3D%3D&start=24&trackingId=Cgij11RdIxXpbDT3bOU2DQ%3D%3D)   | Nelson |
+| Jerry | ✅ [New Graduate Development Program (Class of 2024)](https://jobs.ashbyhq.com/Jerry/4de9f6eb-fd0d-44f7-b33b-5a93c0840e43/application?ref=Simplify&src=Simplify&utm_source=Simplify)   | Nelson |
+| RVO Health | ✅ [Data Scientist](https://boards.greenhouse.io/rvohealth/jobs/4359462005?source=LinkedIn)   | Nelson |
+| Epic Games | ✅ [Data Scientist](https://boards.greenhouse.io/embed/job_app?token=5091831004&gh_src=32b5d0474us&source=LinkedIn)   | Nelson |
 | logicmonitor | ✅ [Associate Data Analyst](https://www.logicmonitor.com/career/?gh_jid=5618887&utm_source=Simplify&gh_src=Simplify)   | Nikhil |
 | Newsbreak | ✅ [Machine Learning Engineer (Junior & New Grad)](https://boards.greenhouse.io/newsbreak/jobs/4338876006?utm_source=Simplify&gh_src=Simplify#app)   | Nikhil |
 | Lowe's | ✅ [Data Scientist - Store Inventory](https://talent.lowes.com/us/en/job/JR-01664516/Data-Scientist-Store-Inventory?utm_source=617IndeedOrganic)   | Sakshi |
