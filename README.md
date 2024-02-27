@@ -20,6 +20,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Lowe's | ✅ [Data Scientist - Store Inventory](https://talent.lowes.com/us/en/job/JR-01664516/Data-Scientist-Store-Inventory?utm_source=617IndeedOrganic)   | Sakshi |
 | UTHealth Houston | ✅ [Graduate Data Scientist - School of Biomedical Informatics](https://www.simplyhired.com/job/FOwOsWlqdTlESUscsAc-G7plvbAvYb8kmDN9_K2btAcTsEAhJBwF1Q)   | Nelson |
 | Lockton, Inc | ✅ [Data Scientist](https://www.simplyhired.com/job/dNZIU2ajsR26oXw76WNUjWrj6PTZnyIB_G4Ak_gHv6rcBy9ZItDeRA)   | Nelson |
 | Hewlett Packard | ✅ [Data Scientist](https://www.simplyhired.com/job/BHKB6mmOOGpR8fRtIg1rnzjBfsXcxvNocyK98IS1lP8aledCcMHOZw)   | Nelson |
