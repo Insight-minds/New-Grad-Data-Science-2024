@@ -27,6 +27,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Globant | ✅ [Data Scientist](https://www.linkedin.com/jobs/search/?currentJobId=3841312991&f_C=8141%2C108102%2C1072412%2C501117&geoId=92000000&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=3841312991%2C3828237587%2C3823230643%2C3796578602%2C3817939809%2C3829985256%2C3823229896%2C3832077037%2C3829980852)   | Yash |
 | Fortuna BMC | ✅ [Data Scientist](https://www.talent.com/talentApply?id=c58e464a51a6&apply_type=talentApply&route=applyQuestions&panel=apply_standard_questions)   | Sakshi |
 | LTIMindtree | ✅ [Data Scientist](https://www.linkedin.com/jobs/view/3839370061/?refId=w7xaZW6NSfqaZmLYVNiqqw%3D%3D&trackingId=w7xaZW6NSfqaZmLYVNiqqw%3D%3D)   | Nikhil |
 | Pelago | ✅ [Data Analyst](https://boards.greenhouse.io/pelago/jobs/4220664007?source=LinkedIn)   | Nikhil |
