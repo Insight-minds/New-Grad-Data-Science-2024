@@ -27,6 +27,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| TechMatrix.Inc | ✅ [Data Scientist](https://www.linkedin.com/jobs/search/?currentJobId=3836782185&keywords=Techmatrix&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=3836782185)   | Yash |
 | DataVisor | ✅ [Data Scientist, Fraud Detection](https://apply.workable.com/datavisor-jobs/j/56AC6D8462/apply/)   | Sakshi |
 | Nicoll Curtin | ✅ [Data Scientist](https://www.linkedin.com/jobs/view/3833697042/?refId=93210212-02aa-4b23-8644-7ca492340b8e&trackingId=lRNKI3LRQwCACrcQ%2B9E9hQ%3D%3D)   | Nelson |
 | SAIVA AI | ✅ [Data Scientist](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3835346040&refId=Vrn%2BVelGTy8ZyphflfKtiw%3D%3D&trackingId=Vrn%2BVelGTy8ZyphflfKtiw%3D%3D)   | Nelson |
