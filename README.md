@@ -27,6 +27,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| VeeAR Projects Inc| ✅ [Data Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3837592718&keywords=Techmatrix&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=3836782185)   | Nikhil |
 | Coders Data | ✅ [Data Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3841951367&keywords=Techmatrix&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=3836782185)   | Nikhil |
 | TechMatrix Inc| ✅ [Data Scientist](https://www.linkedin.com/jobs/search/?currentJobId=3836782185&keywords=Techmatrix&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=3836782185)   | Nikhil |
 | DataVisor | ✅ [Data Scientist, Fraud Detection](https://apply.workable.com/datavisor-jobs/j/56AC6D8462/apply/)   | Sakshi |
