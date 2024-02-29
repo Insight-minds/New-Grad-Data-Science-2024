@@ -27,6 +27,11 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Fortuna BMC | ✅ [Data Scientist](https://www.talent.com/talentApply?id=c58e464a51a6&apply_type=talentApply&route=applyQuestions&panel=apply_standard_questions)   | Sakshi |
+| LTIMindtree | ✅ [Data Scientist](https://www.linkedin.com/jobs/view/3839370061/?refId=w7xaZW6NSfqaZmLYVNiqqw%3D%3D&trackingId=w7xaZW6NSfqaZmLYVNiqqw%3D%3D)   | Nikhil |
+| Pelago | ✅ [Data Analyst](https://boards.greenhouse.io/pelago/jobs/4220664007?source=LinkedIn)   | Nikhil |
+| VeeAR Projects Inc| ✅ [Data Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3837592718&keywords=Techmatrix&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=3836782185)   | Nikhil |
+| Coders Data | ✅ [Data Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3841951367&keywords=Techmatrix&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=3836782185)   | Nikhil |
 | LTIMindtree | ✅ [Data Scientist](https://www.linkedin.com/jobs/view/3839370061/?refId=w7xaZW6NSfqaZmLYVNiqqw%3D%3D&trackingId=w7xaZW6NSfqaZmLYVNiqqw%3D%3D)   | Nikhil |
 | Pelago | ✅ [Data Analyst](https://boards.greenhouse.io/pelago/jobs/4220664007?source=LinkedIn)   | Nikhil |
 | VeeAR Projects Inc| ✅ [Data Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3837592718&keywords=Techmatrix&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=3836782185)   | Nikhil |
