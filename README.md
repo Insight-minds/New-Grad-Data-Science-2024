@@ -27,6 +27,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Happy Distro  |✅[Data Analyst](https://www.ziprecruiter.com/jobs/happy-distro-f625dc8b/data-analyst-51d6a7b8?tsid=122001595&enc_campaign_id=728c969e)| Jeeva |
 | VidMob | ✅ [Data Scientist](https://jobs.ashbyhq.com/VidMob/5d0d320f-c80b-4553-aa7e-f6c253643814?utm_source=Simplify&ref=Simplify&src=Simplify)   | Yash |
 | PayPal | ✅ [Data Scientist](https://paypal.eightfold.ai/careers?query=R0109737&pid=274898695898&domain=paypal.com&sort_by=relevance&source=JobBoardIndeed-Organic)   | Yash |
 | Alludes | ✅ [Data Engineer](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3840423409&refId=zhvx%2BxebvdM%2FFr90H0pRfQ%3D%3D&trackingId=zhvx%2BxebvdM%2FFr90H0pRfQ%3D%3D)   | Yash |
