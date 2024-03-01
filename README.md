@@ -27,6 +27,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| CCS Global Tech | [Entry Level Data Analyst](https://www.linkedin.com/jobs/view/3841082873/?trackingId=jQN7q9MnRqSNOsKU7v%2B%2FxA%3D%3D&refId=4hLUFZoqRMuel2MdGN73NQ%3D%3D&midToken=AQGBynxng7RE3w&midSig=10_zEbiFKKEX81&trk=eml-email_job_applications_update_digest_01-similar_jobs-0-similar_jobs_job_card&trkEmail=eml-email_job_applications_update_digest_01-similar_jobs-0-similar_jobs_job_card-null-i0megf~lt4x3m82~t3-null-null&eid=i0megf-lt4x3m82-t3&otpToken=MTMwNTE2ZTkxNjJkY2ZjN2I3MmIwZmViNDExZWVlYjQ4OGNmZDU0ODkxYTg4YzZlN2JjZjA1NmI0ZTVlNWNmNWY2ZDJkMWU5NjBmMWI5ODE3NGZmZDI5OTUxOTIzNjgwYWIzODJkNjgzNDc0M2JhZjY5OWJhMmU4LDEsMQ%3D%3D) | Jeeva |
 | Meta | ✅ [Data Scientist, Product](https://www.metacareers.com/jobs/1589575655186539/)   | Yash |
 | Sud Recruiting | ✅ [Data Scientist (MarTech)](https://www.linkedin.com/jobs/view/3831149205/?refId=2a79970f-2fa6-487e-8e2d-29ebf34cfc1f&trackingId=XKZ4IW0xQpuSvA2e0p8%2FHg%3D%3D)   | Nelson |
 | Collabera | ✅ [Data Scientist](https://collabera.com/join-us/careers/career-detail/?post=345544&refid=col_linkedin)   | Nelson |
