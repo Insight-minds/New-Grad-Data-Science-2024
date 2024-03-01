@@ -27,6 +27,12 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| VidMob | ✅ [Data Scientist](https://jobs.ashbyhq.com/VidMob/5d0d320f-c80b-4553-aa7e-f6c253643814?utm_source=Simplify&ref=Simplify&src=Simplify)   | Yash |
+| PayPal | ✅ [Data Scientist](https://paypal.eightfold.ai/careers?query=R0109737&pid=274898695898&domain=paypal.com&sort_by=relevance&source=JobBoardIndeed-Organic)   | Yash |
+| Alludes | ✅ [Data Engineer](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3840423409&refId=zhvx%2BxebvdM%2FFr90H0pRfQ%3D%3D&trackingId=zhvx%2BxebvdM%2FFr90H0pRfQ%3D%3D)   | Yash |
+| NOETIK | ✅ [Machine Learning Engineer](https://www.linkedin.com/jobs/view/3822867101/?alternateChannel=search&refId=zhvx%2BxebvdM%2FFr90H0pRfQ%3D%3D&trackingId=zhvx%2BxebvdM%2FFr90H0pRfQ%3D%3D)   | Yash |
+| Trepp,Inc | ✅ [Data Engineer II](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3838150979&refId=8IzRcrLFrLqR%2FxkUf13t7w%3D%3D&trackingId=8IzRcrLFrLqR%2FxkUf13t7w%3D%3D)   | Yash 
+| Disney | ✅ [Data Analyst](https://www.skillsire.com/post/18965?utm_source=linkedin&utm_medium=post&utm_content=apt)   | Yash |
 | CCS Global Tech | ✅[Entry Level Data Analyst](https://www.linkedin.com/jobs/view/3841082873/?trackingId=jQN7q9MnRqSNOsKU7v%2B%2FxA%3D%3D&refId=4hLUFZoqRMuel2MdGN73NQ%3D%3D&midToken=AQGBynxng7RE3w&midSig=10_zEbiFKKEX81&trk=eml-email_job_applications_update_digest_01-similar_jobs-0-similar_jobs_job_card&trkEmail=eml-email_job_applications_update_digest_01-similar_jobs-0-similar_jobs_job_card-null-i0megf~lt4x3m82~t3-null-null&eid=i0megf-lt4x3m82-t3&otpToken=MTMwNTE2ZTkxNjJkY2ZjN2I3MmIwZmViNDExZWVlYjQ4OGNmZDU0ODkxYTg4YzZlN2JjZjA1NmI0ZTVlNWNmNWY2ZDJkMWU5NjBmMWI5ODE3NGZmZDI5OTUxOTIzNjgwYWIzODJkNjgzNDc0M2JhZjY5OWJhMmU4LDEsMQ%3D%3D) | Jeeva |
 | Meta | ✅ [Data Scientist, Product](https://www.metacareers.com/jobs/1589575655186539/)   | Yash |
 | Sud Recruiting | ✅ [Data Scientist (MarTech)](https://www.linkedin.com/jobs/view/3831149205/?refId=2a79970f-2fa6-487e-8e2d-29ebf34cfc1f&trackingId=XKZ4IW0xQpuSvA2e0p8%2FHg%3D%3D)   | Nelson |
