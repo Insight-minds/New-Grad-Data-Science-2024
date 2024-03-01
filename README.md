@@ -27,6 +27,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Meta | ✅ [Data Scientist, Product](https://www.metacareers.com/jobs/1589575655186539/)   | Yash |
 | Sud Recruiting | ✅ [Data Scientist (MarTech)](https://www.linkedin.com/jobs/view/3831149205/?refId=2a79970f-2fa6-487e-8e2d-29ebf34cfc1f&trackingId=XKZ4IW0xQpuSvA2e0p8%2FHg%3D%3D)   | Nelson |
 | Collabera | ✅ [Data Scientist](https://collabera.com/join-us/careers/career-detail/?post=345544&refid=col_linkedin)   | Nelson |
 | Barrington James | ✅ [Machine Learning Engineer](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3843336652&eBP=CwEAAAGN-LeUf9BwBePiwYPLeoWeXDJxCPhAWnPTdsrEN_YkYiSV9MWVvILXNv8pZOrUJOugS_l85O6dEEmo1XJGVDQFy9q83OayUa2PNoFDVb38XUq9JAPSyb4Tu5zeYJ-7YDF1NsVZZOnbIbvEuj8CV8t6jo_mK2gko80i0QFGh9cfF7b3xBwoP8rwrfbqUOFkHVVGRrKTDmvLZMYMQuIjAezabWFgEd02ML0XDRaO_dnQal82qWh14YgyqwB2I5mqdU4KHqW4yuPA_V6m4D078UstJj_SBKrA0hJFCtuMCvjeD2avwGDlFtZkEw14T2PlTn0VvK39Piz9yQAZ4C_0OPW9E1Szz0c8me7ecdRGYD4HPMFtCkFmPVnWh2ec&refId=aHzmFEtKkizA5UfyV8WFEg%3D%3D&trackingId=wjcjvwWjtJXjVtjbK9EOeg%3D%3D)   | Nelson |
