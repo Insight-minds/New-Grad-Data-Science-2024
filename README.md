@@ -27,6 +27,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Altimetrik  |✅[Python Developer](https://www.linkedin.com/jobs/view/3838152094/?alternateChannel=search&refId=IP8aWSh3%2FICdJAbX2pxH%2Fw%3D%3D&trackingId=jtevrTEM%2ForlRgaMuqnP2g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_jobs_discovery_jymbii%3BXJJc%2BHa4Rtqrs87UGMvJFA%3D%3D)| Sakshi |
 | Happy Distro  |✅[Data Analyst](https://www.ziprecruiter.com/jobs/happy-distro-f625dc8b/data-analyst-51d6a7b8?tsid=122001595&enc_campaign_id=728c969e)| Jeeva |
 | VidMob | ✅ [Data Scientist](https://jobs.ashbyhq.com/VidMob/5d0d320f-c80b-4553-aa7e-f6c253643814?utm_source=Simplify&ref=Simplify&src=Simplify)   | Yash |
 | PayPal | ✅ [Data Scientist](https://paypal.eightfold.ai/careers?query=R0109737&pid=274898695898&domain=paypal.com&sort_by=relevance&source=JobBoardIndeed-Organic)   | Yash |
