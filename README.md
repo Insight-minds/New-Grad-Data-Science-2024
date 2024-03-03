@@ -27,6 +27,8 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Verdant Infotech Solutions     |✅[Data Scientist/Machine-Learning Engineer](https://www.resume-library.com/job/view/145661294/Data-Scientist-Machine-Learning-Engineer)| Sakshi |
+| Nvidia    |✅[Performance Software Engineer, Deep Learning Libraries - New College Graduate](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Software-Engineer--Deep-Learning-Libraries---New-College-Graduate_JR1974216?source=jobboardlinkedin)| Sakshi |
 | Microsoft    |✅[Machine Learning Engineer](https://jobs.careers.microsoft.com/us/en/job/1672286/Machine-Learning-Engineer?jobsource=linkedin)| Sakshi |
 | Dale WorkForce Solutions    |✅[Data Scientist](https://www.resume-library.com/job/view/145502138/Data-Scientist)| Sakshi |
 | Apex Analytix   |✅[Data Scientist](https://www.linkedin.com/jobs/view/3845137576/?alternateChannel=search&refId=fKY1D78QxSHYGksSia44DA%3D%3D&trackingId=N9uVq5dYaRb7a91gxjmfIw%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BTGS%2BHxwpTlmUZK%2BYGeo3Cw%3D%3D)| Sakshi |
