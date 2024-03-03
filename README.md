@@ -27,6 +27,10 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Microsoft    |✅[Machine Learning Engineer](https://jobs.careers.microsoft.com/us/en/job/1672286/Machine-Learning-Engineer?jobsource=linkedin)| Sakshi |
+| Dale WorkForce Solutions    |✅[Data Scientist](https://www.resume-library.com/job/view/145502138/Data-Scientist)| Sakshi |
+| Apex Analytix   |✅[Data Scientist](https://www.linkedin.com/jobs/view/3845137576/?alternateChannel=search&refId=fKY1D78QxSHYGksSia44DA%3D%3D&trackingId=N9uVq5dYaRb7a91gxjmfIw%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BTGS%2BHxwpTlmUZK%2BYGeo3Cw%3D%3D)| Sakshi |
+| KETER ENVIRONMENTAL SERVICES LLC  |✅[Data Engineer](https://www.talent.com/view?id=973356926203&source=ecocareers&utm_medium=ecocareers)| Sakshi |
 | Marriott International HQ  |✅[Data Scientist](https://jobs.marriott.com/corporate/jobs/24025558?lang=en-US)| Nelson |
 | Datascore  |✅[Data Scientist](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3841419328&refId=h89d7mKxMe9CpcC6urP3oA%3D%3D&trackingId=h89d7mKxMe9CpcC6urP3oA%3D%3D)| Nelson |
 | CVS Health  |✅[Data Scientist - Cost & Operations Analytics](https://jobs.cvshealth.com/job/19968918/data-scientist-cost-operations-analytics-wellesley-ma/?source=Linkedin)| Nelson |
