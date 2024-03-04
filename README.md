@@ -27,6 +27,9 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| HireMeFast LLC | ✅[Python Developer](https://hiremefast.zohorecruit.com/jobs/Careers/734702000033825201/Python-Developer?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Jeeva |
+| Phoenix Recruitment | ✅[Junior Data Analyst](https://phoenix-recruiting.zohorecruit.eu/jobs/Careers/62094000026787445/Junior-Data-Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Jeeva |
+| FPC - FORTUNE PERSONNEL CONSULTANTS (Orlando Office)| ✅[Data Analyst (Entry Level 0- 5 Years Experience)](https://www.linkedin.com/jobs/collections/top-applicant/?currentJobId=3845936994) | Jeeva |
 | Sketchy | ✅ [Data Engineer](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3838151049&refId=%2F%2B1iELZgYhOkLv4A0nLEJQ%3D%3D&trackingId=%2F%2B1iELZgYhOkLv4A0nLEJQ%3D%3D)   | Yash |
 | Advex AI | ✅ [Machine Learning Research Engineer](https://jobs.ashbyhq.com/pear/935268fc-9bb1-41d9-9884-5cd2689178fc/application?ref=Simplify&src=Simplify&utm_source=Simplify)   | Yash |
 | Caesar’s Entertainment | ✅ [Data Scientist](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/48890/apply/email?keyword=Data&mode=location&sortBy=POSTING_DATES_DESC)   | Yash |
