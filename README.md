@@ -43,7 +43,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 | GHD    |✅[Data Scientist](https://www.linkedin.com/jobs/view/3826680783/?eBP=CwEAAAGOA8Ax8vQmDwGymxyg-sM216PDpv3V5Cqf16McEpn3_hEIeg3CqDl8aWhyJnMsgoEJ1PbsQFcb1Jr1s1w7jojCpizuEsAAjIt-OANWqK5Au9a4V_PFSEcv7s3dyz7vBFZ4HjVdTHGFPt66UzrxVOPqFbn7Kt4RZl1gcQZjbg8Afdcv5DP-LXMMI0OtqNwHi5f6mkfAk-sE8aXX_m9xT0v61JmTig3P2e__SsB51vdLayHApM2Tv7_5nktfw2OC2eUwIjWJURMYDqsPj8BFn4cQlWXvWAqzp0LgwqPz_oKOvIH7EXZ4cwFOsfIxPgV62hJ_TqiOABjTDuw5_BQn-gDaLHqpl0l36c7n9mOYNYLMqwV9oGcBImj6df1da9FuqFMzKUqAyZyCf6zQoO1RaFsruKGhn5xi&refId=rtgsPa18gyy9K%2BH3Jwe8Vg%3D%3D&trackingId=x1b7bAwihXZuZ96kBib1BQ%3D%3D&trk=flagship3_search_srp_jobs)| Nelson |
 | Software Technology Inc    |✅[Data Scientist](https://www.linkedin.com/jobs/view/3844947572/)| Nelson |
 | SynergisticIT l     |✅[Junior Data Scientist - Remote](https://www.linkedin.com/jobs/view/3841227195/)| Nelson |
-| Tech Advisory Panel     |✅[Data Scientist](https://www.linkedin.com/jobs/view/3844101066/)| Nelson |
+| Tech Advisory Panel     |🔒[Data Scientist](https://www.linkedin.com/jobs/view/3844101066/)| Nelson |
 | Dale WorkForce Solutions    |✅[Data Scientist](https://www.resume-library.com/job/view/145502138/Data-Scientist)| Sakshi |
 | Apex Analytix   |✅[Data Scientist](https://www.linkedin.com/jobs/view/3845137576/?alternateChannel=search&refId=fKY1D78QxSHYGksSia44DA%3D%3D&trackingId=N9uVq5dYaRb7a91gxjmfIw%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BTGS%2BHxwpTlmUZK%2BYGeo3Cw%3D%3D)| Sakshi |
 | KETER ENVIRONMENTAL SERVICES LLC  |✅[Data Engineer](https://www.talent.com/view?id=973356926203&source=ecocareers&utm_medium=ecocareers)| Sakshi |
