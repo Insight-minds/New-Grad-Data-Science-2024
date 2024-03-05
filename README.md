@@ -30,7 +30,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 | Piper Companies | ✅[Data Engineer](https://careers.pipercompanies.com/details/116683/data_engineer) | Jeeva |
 | EDB | ✅[IT Data Engineer](https://www.enterprisedb.com/careers/job-openings?gh_jid=5897505003&gh_src=76eb53c63us) | Jeeva |
 |BrainPOP | ✅[AI Engineer](https://boards.greenhouse.io/brainpop/jobs/4316186006?gh_src=1244519c6us&source=LinkedIn) | Jeeva |
-| Astrion| ✅[Data Engineer]([https://www.linkedin.com/jobs/collections/top-applicant/?currentJobId=3845936994](https://astrioncareers-astrion.icims.com/jobs/17394/data-engineer/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1500&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300)) | Jeeva |
+| Astrion| ✅[Data Engineer](https://astrioncareers-astrion.icims.com/jobs/17394/data-engineer/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1500&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300)| Jeeva |
 | Wurl, LLC | ✅[Machine Learning Data Engineer](https://boards.greenhouse.io/wurl/jobs/5868109003?gh_src=8fffa1953us&source=LinkedIn) | Jeeva |
 | Computer Futures | ✅[Data Engineer](https://www.linkedin.com/jobs/collections/similar-jobs/?currentJobId=3827941684&referenceJobId=3840592746) | Jeeva |
 | INSPYR Solutions | ✅[Data Engineer](https://www.linkedin.com/jobs/collections/similar-jobs/?currentJobId=3829312620&referenceJobId=3840592746) | Jeeva |
