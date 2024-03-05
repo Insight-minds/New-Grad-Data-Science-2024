@@ -27,6 +27,10 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Piper Companies | ✅[Data Engineer](https://careers.pipercompanies.com/details/116683/data_engineer) | Jeeva |
+| EDB | ✅[IT Data Engineer](https://www.enterprisedb.com/careers/job-openings?gh_jid=5897505003&gh_src=76eb53c63us) | Jeeva |
+|BrainPOP | ✅[AI Engineer](https://boards.greenhouse.io/brainpop/jobs/4316186006?gh_src=1244519c6us&source=LinkedIn) | Jeeva |
+| Astrion| ✅[Data Engineer]([https://www.linkedin.com/jobs/collections/top-applicant/?currentJobId=3845936994](https://astrioncareers-astrion.icims.com/jobs/17394/data-engineer/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1500&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300)) | Jeeva |
 | HireMeFast LLC | ✅[Python Developer](https://hiremefast.zohorecruit.com/jobs/Careers/734702000033825201/Python-Developer?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Jeeva |
 | Phoenix Recruitment | ✅[Junior Data Analyst](https://phoenix-recruiting.zohorecruit.eu/jobs/Careers/62094000026787445/Junior-Data-Analyst?source=LinkedIn&embedsource=LinkedIn%2BLimited%2BListings) | Jeeva |
 | FPC - FORTUNE PERSONNEL CONSULTANTS (Orlando Office)| ✅[Data Analyst (Entry Level 0- 5 Years Experience)](https://www.linkedin.com/jobs/collections/top-applicant/?currentJobId=3845936994) | Jeeva |
