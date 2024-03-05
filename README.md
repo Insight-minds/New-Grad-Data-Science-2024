@@ -27,6 +27,9 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+|Pyramid Consulting, Inc |✅ [Data Analyst](https://www.linkedin.com/jobs/collections/top-applicant/?currentJobId=3846326788&eBP=NotAvailableFromMidTier&refId=uPZ%2F35JSRl%2B6%2BAKH5LrCTQ%3D%3D&start=25&trackingId=3wy%2BSUSDjUsfLa26MH8tRA%3D%3D) | Jeeva |
+|Kubota Tractor Corporation| ✅[Data Analyst II](https://www.linkedin.com/jobs/view/3846610711/) | Jeeva |
+|VARITE INC|✅[Business Data Analyst](https://www2.jobdiva.com/portal/?a=m4jdnwub6a49bu43qyf2l3u5qv7gl809d9ira4ui0y6zbtz4fv16extz4r7z60sn&jobid=21432344#/jobs/21432344?compid=0&SearchString=&StatesString=&id=21432344&source=linkedin.com)|Jeeva|
 |BrainPOP | ✅[AI Engineer](https://boards.greenhouse.io/brainpop/jobs/4316186006?gh_src=1244519c6us&source=LinkedIn) | Jeeva |
 | Wimmer Solutions | ✅[Machine Learning Engineer](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3840578065&eBP=CwEAAAGODBda8HNum4as7T8VBGlDjLniJxNN-BdPB9ayu9khYYdMlS5IY0j_HXE5C9uQYI02D4hDMHVluaA60e3a2mrPSSK38IXeO7fe4UVa20STlwqEMxGfbtu0hDSe7BFxz2LRiOsWAO-IquSl5xWhVlbYGTS7CAbdfcqhqVUyg5c9Dd0FQ322eg74JYSc9N1d2kD105w0ulzh96eX1-DLQ1YNvPb9qEDxoOxpMDO5IhXQZ4EQi4mfTqWFfJBwHMPNfOpCkUpNGpV4nBnxTirQz2VAS0sEU0riDFw56k4wzAY27bZthydQbWAUfYxpjQsyV0LyY6ru4aPE9XjuhMzWOalIqNt43RQfA7X6UMZi0PBC8h886a1v5_RveMMVpQ&refId=hy4F1PKbcwyIvphFj%2FfOPQ%3D%3D&trackingId=ZdiXSaNj%2Fqy3LPGR2jou4g%3D%3D) | Jeeva |
 | Sketchy | ✅ [Data Engineer](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3838151049&refId=%2F%2B1iELZgYhOkLv4A0nLEJQ%3D%3D&trackingId=%2F%2B1iELZgYhOkLv4A0nLEJQ%3D%3D)   | Yash |
