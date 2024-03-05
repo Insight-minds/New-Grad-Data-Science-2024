@@ -52,7 +52,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 | KETER ENVIRONMENTAL SERVICES LLC  |✅[Data Engineer](https://www.talent.com/view?id=973356926203&source=ecocareers&utm_medium=ecocareers)| Sakshi |
 | Marriott International HQ  |✅[Data Scientist](https://jobs.marriott.com/corporate/jobs/24025558?lang=en-US)| Nelson |
 | Datascore  |✅[Data Scientist](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3841419328&refId=h89d7mKxMe9CpcC6urP3oA%3D%3D&trackingId=h89d7mKxMe9CpcC6urP3oA%3D%3D)| Nelson |
-| CVS Health  |✅[Data Scientist - Cost & Operations Analytics](https://jobs.cvshealth.com/job/19968918/data-scientist-cost-operations-analytics-wellesley-ma/?source=Linkedin)| Nelson |
+| CVS Health  |✅[Data Scientist - Cost & Operations Analytics](https://jobs.cvshealth.com/job/20013887/data-scientist-cost-ops-analytics-wellesley-ma/)| Nelson |
 | Altimetrik  |✅[Python Developer](https://www.linkedin.com/jobs/view/3838152094/?alternateChannel=search&refId=IP8aWSh3%2FICdJAbX2pxH%2Fw%3D%3D&trackingId=jtevrTEM%2ForlRgaMuqnP2g%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_jobs_discovery_jymbii%3BXJJc%2BHa4Rtqrs87UGMvJFA%3D%3D)| Sakshi |
 | Happy Distro  |✅[Data Analyst](https://www.ziprecruiter.com/jobs/happy-distro-f625dc8b/data-analyst-51d6a7b8?tsid=122001595&enc_campaign_id=728c969e)| Jeeva |
 | VidMob | ✅ [Data Scientist](https://jobs.ashbyhq.com/VidMob/5d0d320f-c80b-4553-aa7e-f6c253643814?utm_source=Simplify&ref=Simplify&src=Simplify)   | Yash |
