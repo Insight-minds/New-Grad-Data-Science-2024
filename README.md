@@ -27,6 +27,8 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Electronic Warfare Associates (EWA) |✅[Junior Scientist](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3845751376&refId=wqM96ChBFMsxsNAb2x%2BZpQ%3D%3D&trackingId=wqM96ChBFMsxsNAb2x%2BZpQ%3D%3D) | Nelson |
+| Why Hiring |✅[JR. Data Scientist (New Grad)](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3845631699&refId=eBQ%2F71xyDyklS4NIlAyFZg%3D%3D&trackingId=eBQ%2F71xyDyklS4NIlAyFZg%3D%3D) | Nelson |
 | MANIFEST Technology |✅[Data Analyst SQL Developer](https://www.linkedin.com/jobs/view/3841416151) |Jeeva|
 |VARITE INC|✅[Business Data Analyst](https://www2.jobdiva.com/portal/?a=m4jdnwub6a49bu43qyf2l3u5qv7gl809d9ira4ui0y6zbtz4fv16extz4r7z60sn&jobid=21432344#/jobs/21432344?compid=0&SearchString=&StatesString=&id=21432344&source=linkedin.com)|Jeeva|
 |BrainPOP | ✅[AI Engineer](https://boards.greenhouse.io/brainpop/jobs/4316186006?gh_src=1244519c6us&source=LinkedIn) | Jeeva |
