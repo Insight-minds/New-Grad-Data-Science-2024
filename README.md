@@ -27,6 +27,9 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Rockstar | ✅ [Data Engineer](https://www.skillsire.com/post/18700?utm_source=linkedin&utm_medium=post&utm_content=apt)   | Yash |
+| Hawaii | ✅ [Data scientist](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3842516719&refId=Vd0vHqJDFm5plRdNPkxNZA%3D%3D&trackingId=Vd0vHqJDFm5plRdNPkxNZA%3D%3D)| Yash |
+| CGI | ✅ [Data Engineer](https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0224-1952&BRID=1110757&SBDID=943) | Yash |
 | Electronic Warfare Associates (EWA) |✅[Junior Scientist](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3845751376&refId=wqM96ChBFMsxsNAb2x%2BZpQ%3D%3D&trackingId=wqM96ChBFMsxsNAb2x%2BZpQ%3D%3D) | Nelson |
 | Why Hiring |✅[JR. Data Scientist (New Grad)](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3845631699&refId=eBQ%2F71xyDyklS4NIlAyFZg%3D%3D&trackingId=eBQ%2F71xyDyklS4NIlAyFZg%3D%3D) | Nelson |
 | MANIFEST Technology |✅[Data Analyst SQL Developer](https://www.linkedin.com/jobs/view/3841416151) |Jeeva|
