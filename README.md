@@ -27,6 +27,9 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Mathematica | ✅ [Medicaid Data Analytics Analyst](https://careers.peopleclick.com/careerscp/client_mathematica/external/en-us/gateway/viewFromLink.html?jobPostId=6048&localeCode=en-us&source=Indeed.com&sourceType=PREMIUM_POST_SITE)   | Yash |
+| Comcast | ✅ [Enterprise Analytics & Data Intelligence](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/login?redirect=%2FComcast_Careers%2Fjob%2FPA---Philadelphia-1701-John-F-Kennedy-Blvd%2FData-Scientist-II_R383616%2Fapply%3Fsource%3Dind_orga_at)   | Yash |
+| NFI | ✅ [Data Analyst](https://careers.nfiindustries.com/us/en/job/NFINUSTRANS025695EXTERNALENUS/Transportation-Data-Analyst?utm_source=indeed&utm_medium=phenom-feeds&sourceId=bb7001e4-6d07-4ba4-91c5-de29315d85a6) | Yash |
 | Rockstar | ✅ [Data Engineer](https://www.skillsire.com/post/18700?utm_source=linkedin&utm_medium=post&utm_content=apt)   | Yash |
 | Hawaii | ✅ [Data scientist](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3842516719&refId=Vd0vHqJDFm5plRdNPkxNZA%3D%3D&trackingId=Vd0vHqJDFm5plRdNPkxNZA%3D%3D)| Yash |
 | CGI | ✅ [Data Engineer](https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0224-1952&BRID=1110757&SBDID=943) | Yash |
