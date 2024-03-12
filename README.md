@@ -27,6 +27,10 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Ryder System, Inc | ✅ [Data Analyst III](https://ryder.wd5.myworkdayjobs.com/en-US/RyderCareers/job/Data-Analyst-III_R109715)   | Nelson |
+| Harris Computer | ✅ [Associate Data Analyst](https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Associate-Data-Analyst_R0024066-6)   | Nelson |
+| Stripe | ✅ [Data Scientist](https://stripe.com/jobs/listing/data-scientist/5601879)   | Nelson |
+| Genius Sports | ✅ [Machine Learning Engineer](https://boards.greenhouse.io/geniussports/jobs/5811021003)   | Nelson |
 | DHL | ✅ [Business Analyst](https://careers.dhl.com/global/en/job/DPDHGLOBAL9679715ENGLOBALEXTERNALTALENTREEF/Business-Data-Analyst-II?UTM_Medium=1JobWrapper&UTM_Campaign=2dhl&UTM_Source=0LinkedIn)   | Yash |
 | Cloudfare | ✅ [Data Analyst](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3850892010&refId=KfP3xTmCzgPm4PtGV4Ymwg%3D%3D&trackingId=KfP3xTmCzgPm4PtGV4Ymwg%3D%3D)  | Yash |
 | Team Remotely | ✅ [Junior Data Scientist](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3852932815&refId=N%2BhCC1I%2BP2FzR%2BvzLdLsbg%3D%3D&trackingId=N%2BhCC1I%2BP2FzR%2BvzLdLsbg%3D%3D)   | Yash |
