@@ -27,6 +27,14 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| TEKSystems | ✅ [IT Data Analyst](https://careers.teksystems.com/us/en/job/JP-004362695/IT-Data-Analyst?utm_source=Recruitics&utm_medium=equest&s_id=4106&icid=dice_recruitics&rx_campaign=Dice1&rx_ch=connector&rx_group=123601&rx_job=JP-004362695&rx_medium=post&rx_r=none&rx_source=Dice&rx_ts=20240312T102001Z&rx_vp=slots&rx_viewer=8a13a2ad6b3711ee9b5a6b992ce8ec468e94c330d95c451cb45d284afa5e4780)   | Yash |
+| HTC Global Services | ✅ [Data Engineer](https://www.htcinc.com/jobs/detail/?jobcode=229387&board=147&board_type=30)   | Yash |
+|Turnberry Solutions | ✅ [Analytics Engineer](https://www.turnberrysolutions.com/careers/salesforce/a4cTO000000STVJYA4/)   | Yash |
+| Pinnacle Group | ✅ [Banking Analyst- Credit card domain](https://jobs.pinnacle1.com/jobs/154309)   | Yash |
+| Randstad | ✅ [Data Scientist](https://www.randstadusa.com/jobs/4/1045061/data-scientist_wilkes-barre/?utm_source=dice&utm_campaign=job+ads&utm_medium=job+post) | Yash |
+| HTC Global Services | ✅ [AI Machine Learning Expert](https://www.htcinc.com/jobs/detail/?jobcode=229198&board=147&board_type=30) | Yash |
+| Comcast| ✅ [Analyst 3, Enterprise Data Analytics](https://jobs.comcast.com/jobs/description/tpx-jd-template?external_or_internal=External&job_id=R382784&p_sid=Cnp96ub&p_uid=qWk3Nzv8oY&source=rd_programmaticjobs_at&ss=paid&utm_campaign=hq_standard&utm_content=pj_board&utm_medium=jobad&utm_source=dice&dclid=CKaf9fnM74QDFSrJ9gId750BFA) | Yash |
+| Amplify | ✅ [Data Scientist](https://amplify.wd1.myworkdayjobs.com/en-US/Amplify_Careers/job/Remote---United-States/Data-Scientist_Req_10832) | Yash |
 | Ryder System, Inc | ✅ [Data Analyst III](https://ryder.wd5.myworkdayjobs.com/en-US/RyderCareers/job/Data-Analyst-III_R109715)   | Nelson |
 | Harris Computer | ✅ [Associate Data Analyst](https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Associate-Data-Analyst_R0024066-6)   | Nelson |
 | Stripe | ✅ [Data Scientist](https://stripe.com/jobs/listing/data-scientist/5601879)   | Nelson |
