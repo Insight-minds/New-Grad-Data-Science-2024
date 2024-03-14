@@ -28,7 +28,6 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
 | Triunity Software | ✅ [Jr AI Developer/ Engineer](https://smartapply.indeed.com/beta/indeedapply/form/profile-location)   | Sakshi |
-| Business Integra | ✅ [Data Scientist](https://smartapply.indeed.com/beta/indeedapply/form/contact-info)   | Sakshi |
 | Attain | ✅ [Machine Learning Engineer](https://smartapply.indeed.com/beta/indeedapply/form/profile-location)   | Sakshi |
 | TikTok | ✅ [Data Analyst, Risk Data Mining - USDS](https://careers.tiktok.com/position/7283509122967013693/detail?spread=XKM9ZXE)   | Sakshi |
 | Microsoft | ✅ [Data Scientist](https://jobs.careers.microsoft.com/us/en/job/1698929/Data-Scientist)   | Sakshi |
