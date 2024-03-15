@@ -73,7 +73,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 | Genius Sports | ✅ [Machine Learning Engineer](https://boards.greenhouse.io/geniussports/jobs/5811021003)   | Nelson |
 | DHL | ✅ [Business Analyst](https://careers.dhl.com/global/en/job/DPDHGLOBAL9679715ENGLOBALEXTERNALTALENTREEF/Business-Data-Analyst-II?UTM_Medium=1JobWrapper&UTM_Campaign=2dhl&UTM_Source=0LinkedIn)   | Yash |
 | Cloudfare | ✅ [Data Analyst](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3850892010&refId=KfP3xTmCzgPm4PtGV4Ymwg%3D%3D&trackingId=KfP3xTmCzgPm4PtGV4Ymwg%3D%3D)  | Yash |
-| Team Remotely | ✅ [Junior Data Scientist](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3852932815&refId=N%2BhCC1I%2BP2FzR%2BvzLdLsbg%3D%3D&trackingId=N%2BhCC1I%2BP2FzR%2BvzLdLsbg%3D%3D)   | Yash |
+| Team Remotely | 🔒 [Junior Data Scientist](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3852932815&refId=N%2BhCC1I%2BP2FzR%2BvzLdLsbg%3D%3D&trackingId=N%2BhCC1I%2BP2FzR%2BvzLdLsbg%3D%3D)   | Yash |
 | Docker | ✅ [GTM Data Analytics Intern](https://jobs.ashbyhq.com/docker/1c6ec1f1-4091-449a-86fe-59459b20070d)   | Yash |
 | Bloomberg | ✅ [Machine Learning Engineer](https://careers.bloomberg.com/job/detail/104771) | Yash |
 | PayPal | ✅ [Data Scientist](https://paypal.eightfold.ai/careers?query=R0109899&pid=274898786155&domain=paypal.com&sort_by=relevance)   | Nelson |
