@@ -27,6 +27,12 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Grainger | ✅ [Applied Machine Learning Scientist](https://jobs.grainger.com/job/LAKE-FOREST-Applied-Machine-Learning-Scientist-307719-IL-60045-5201/1143689500/?feedId=286800&utm_source=Indeed&utm_campaign=Grainger_indeed&jobPipeline=Indeed)   | Sakshi |
+| Tesla | ✅ [Finance Analytics Data Scientist](https://www.tesla.com/careers/search/job/finance-analyticsdatascientist-220191?source=Indeed&tags=organicjob?source=Indeed&tags=organicjob)   | Sakshi |
+| American Values | ✅ [AI Engineer](https://smartapply.indeed.com/beta/indeedapply/form/contact-info)   | Sakshi |
+| Realign LLC | ✅ [Data Scientist – Generative AI](https://realign-llc.com/careers/job-details/IT241211)   | Sakshi |
+| McGraw Hill | ✅ [Pricing Data Analyst](https://careers.mheducation.com/jobs/4284/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f)   | Sakshi |
+| Ariad | ✅ [Associate Data Scientist](https://jobs.takeda.com/job/cambridge/associate-data-scientist/1113/62556374864)   | Sakshi |
 | Triunity Software | ✅ [Jr AI Developer/ Engineer](https://smartapply.indeed.com/beta/indeedapply/form/profile-location)   | Sakshi |
 | Attain | ✅ [Machine Learning Engineer](https://smartapply.indeed.com/beta/indeedapply/form/profile-location)   | Sakshi |
 | TikTok | ✅ [Data Analyst, Risk Data Mining - USDS](https://careers.tiktok.com/position/7283509122967013693/detail?spread=XKM9ZXE)   | Sakshi |
