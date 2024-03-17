@@ -27,6 +27,11 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Canvas SRI | ✅ [Data Scientist/ Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3859498240&f_TPR=r86400&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER)   | Yash |
+| Netflix | ✅ [Data Scientist, Ads](https://jobs.netflix.com/jobs/318059384)   | Yash |
+|Meta | ✅ [Data Scientist Product](https://www.metacareers.com/jobs/1116038562877895/)   | Yash |
+| Epsilon | ✅ [Data Analyst II](https://www.epsilon.com/jobs?id=743999973681248)   | Yash |
+| Intel | ✅ [College Graduate - Data Science (BS/MS)](https://jobs.intel.com/en/job/-/-/599/59771644208?source=LinkedIn) | Yash |
 | Grainger | ✅ [Applied Machine Learning Scientist](https://jobs.grainger.com/job/LAKE-FOREST-Applied-Machine-Learning-Scientist-307719-IL-60045-5201/1143689500/?feedId=286800&utm_source=Indeed&utm_campaign=Grainger_indeed&jobPipeline=Indeed)   | Sakshi |
 | Tesla | ✅ [Finance Analytics Data Scientist](https://www.tesla.com/careers/search/job/finance-analyticsdatascientist-220191?source=Indeed&tags=organicjob?source=Indeed&tags=organicjob)   | Sakshi |
 | American Values | ✅ [AI Engineer](https://smartapply.indeed.com/beta/indeedapply/form/contact-info)   | Sakshi |
