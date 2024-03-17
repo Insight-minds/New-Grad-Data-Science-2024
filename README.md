@@ -67,8 +67,8 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 | HTC Global Services | ✅ [AI Machine Learning Expert](https://www.htcinc.com/jobs/detail/?jobcode=229198&board=147&board_type=30) | Yash |
 | Comcast| ✅ [Analyst 3, Enterprise Data Analytics](https://jobs.comcast.com/jobs/description/tpx-jd-template?external_or_internal=External&job_id=R382784&p_sid=Cnp96ub&p_uid=qWk3Nzv8oY&source=rd_programmaticjobs_at&ss=paid&utm_campaign=hq_standard&utm_content=pj_board&utm_medium=jobad&utm_source=dice&dclid=CKaf9fnM74QDFSrJ9gId750BFA) | Yash |
 | Amplify | ✅ [Data Scientist](https://amplify.wd1.myworkdayjobs.com/en-US/Amplify_Careers/job/Remote---United-States/Data-Scientist_Req_10832) | Yash |
-| Ryder System, Inc | ✅ [Data Analyst III](https://ryder.wd5.myworkdayjobs.com/en-US/RyderCareers/job/Data-Analyst-III_R109715)   | Nelson |
-| Harris Computer | ✅ [Associate Data Analyst](https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Associate-Data-Analyst_R0024066-6)   | Nelson |
+| Ryder System, Inc | ⚠️ [Data Analyst III](https://ryder.wd5.myworkdayjobs.com/en-US/RyderCareers/job/Data-Analyst-III_R109715)   | Nelson |
+| Harris Computer | 🔒 [Associate Data Analyst](https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Associate-Data-Analyst_R0024066-6)   | Nelson |
 | Stripe | ✅ [Data Scientist](https://stripe.com/jobs/listing/data-scientist/5601879)   | Nelson |
 | Genius Sports | ✅ [Machine Learning Engineer](https://boards.greenhouse.io/geniussports/jobs/5811021003)   | Nelson |
 | DHL | ✅ [Business Analyst](https://careers.dhl.com/global/en/job/DPDHGLOBAL9679715ENGLOBALEXTERNALTALENTREEF/Business-Data-Analyst-II?UTM_Medium=1JobWrapper&UTM_Campaign=2dhl&UTM_Source=0LinkedIn)   | Yash |
