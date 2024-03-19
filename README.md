@@ -42,7 +42,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 | Attain | ✅ [Machine Learning Engineer](https://smartapply.indeed.com/beta/indeedapply/form/profile-location)   | Sakshi |
 | TikTok | ✅ [Data Analyst, Risk Data Mining - USDS](https://careers.tiktok.com/position/7283509122967013693/detail?spread=XKM9ZXE)   | Sakshi |
 | Microsoft | ✅ [Data Scientist](https://jobs.careers.microsoft.com/us/en/job/1698929/Data-Scientist)   | Sakshi |
-| Prosper Marketplace | ✅ [Data Scientist](https://jobs.lever.co/prosper/855d0b1d-8c3b-4d99-8b53-6ad86bd09ebc/apply?source=LinkedIn)   | Nelson |
+| Prosper Marketplace | 🔒 [Data Scientist](https://jobs.lever.co/prosper/855d0b1d-8c3b-4d99-8b53-6ad86bd09ebc/apply?source=LinkedIn)   | Nelson |
 | Nile Commerce | ✅ [Data Analyst](https://www.linkedin.com/jobs/view/3845874053/?refId=7f4fba90-aaf0-425a-82fe-e714c92921c2&trackingId=e0g8JVfiTNmodemlAajjIQ%3D%3D)   | Nelson |
 | Next Ventures | ✅ [AI Engineer (Conversation AI)](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3849520266&refId=m%2B9Bz3ok%2FiKjeHqJjBWh5w%3D%3D&trackingId=m%2B9Bz3ok%2FiKjeHqJjBWh5w%3D%3D)   | Nelson |
 | Zelis | ✅ [Data Insights Analyst](https://zelis.wd1.myworkdayjobs.com/en-US/ZelisCareers/job/Data-Insights-Analyst_JR104874)   | Nelson |
