@@ -27,6 +27,8 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 | Company Name         | Roles                | Contributor |
 | ------------- | --------------------- | ---------------------------- |
+| Snap Inc | ✅ [Data Scientist, 1+ Years of Experience)](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Los-Angeles-California/Data-Scientist--1--Years-of-Experience_Q124DSA3?source=LinkedIn)   | Nelson |
+| Lucid Motors | ✅ [Data Scientist - Cloud Data (New Grad)](https://boards.greenhouse.io/lucidmotors/jobs/4281512007)   | Nelson |
 | Canvas SRI | ✅ [Data Scientist/ Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3859498240&f_TPR=r86400&keywords=data%20scientist&origin=JOB_SEARCH_PAGE_JOB_FILTER)   | Yash |
 | Netflix | ✅ [Data Scientist, Ads](https://jobs.netflix.com/jobs/318059384)   | Yash |
 |Meta | ✅ [Data Scientist Product](https://www.metacareers.com/jobs/1116038562877895/)   | Yash |
